@@ -1,0 +1,27 @@
+/* privacy.css */
+
+/* General body styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+  line-height: 1.6;
+  background-color: #ffffff;
+  color: #333333;
+}
+
+/* Headings styling */
+h1, h2 {
+  color: #333333;
+  margin-top: 1rem;
+}
+
+/* Paragraph styling */
+p {
+  margin: 1rem 0;
+}
+
+/* Styling for the last updated text */
+.last-updated {
+  font-size: 0.9em;
+  color: #555555;
+}
